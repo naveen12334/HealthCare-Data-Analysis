@@ -3,3 +3,6 @@ Data Analysis on Patient Wait List whether the patient is Inpatient or Outpatien
 
 # Summary Report
 ![](https://github.com/naveen12334/HealthCare-Data-Analysis/blob/main/Images/Summary.png)
+
+# Detail Report
+![](https://github.com/naveen12334/HealthCare-Data-Analysis/blob/main/Images/Detail.png)
